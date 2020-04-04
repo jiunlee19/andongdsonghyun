@@ -1,0 +1,21 @@
+html{
+    height:100%;
+}
+
+
+#leftnav{
+    background-color :#0c3f6b;
+    
+}
+
+#leftnav a{
+    color:white !important;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+#dias-brand{
+    text-align: center;
+    padding:20px;
+    font-size:30px;
+
+}

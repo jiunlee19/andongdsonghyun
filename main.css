@@ -1,0 +1,123 @@
+.mainlow{
+    width: 100%;
+    height: 150px;
+    font-weight: 700;
+    font-size:50px;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.mainlow img{
+    position: absolute; /* 1:1 ratio */ 
+    overflow: hidden;
+
+    width: 100%;
+    height:100%;
+    
+}
+
+
+.collow{
+margin-top:40px;
+}
+
+.collow a{
+    color: white !important;
+}
+
+.collow p{
+    color: #0f4c81 !important;
+}
+
+#parallelogram {
+    width: 790px;
+    height: 650px;
+    transform: skew(-15deg);
+    background: #0f4c81;
+
+    position: absolute;
+    z-index:100;
+  }
+
+  #parallelogram2 {
+    width: 300px;
+    height: 550px;
+    background: #0f4c81;
+    position: absolute;
+    z-index:100;
+  }
+
+#parallelogram-shadow{
+    width: 795px;
+    height: 660px;
+    transform: skew(-15deg);
+    background: #0000003f;
+    opacity: 0.5;
+
+    position: absolute;
+    z-index:90;
+}
+
+
+  #on-para p{
+    font-size: 110px;
+    padding:0.6rem;
+    font-family: 'East Sea Dokdo', cursive;
+    color: #ffd700 !important;
+    margin-top :30px; 
+    margin-left:180px;
+}  
+
+
+  .parafnt{
+      color: #EECB27 !important;
+      margin:30px;
+      font-size:30px;
+  }
+
+  .parafnt a{
+    color:white;
+  }
+
+  #mainnav{
+    margin-top :30px; 
+    margin-left:165px;
+
+}
+  #on-para{
+    position: absolute;
+    z-index:200;
+  }
+
+  .main p{
+      color:white;
+      font-family: 'Nanum Myeongjo', serif;
+  }
+
+  .nabol{
+      font-weight: 700;
+  }
+
+.osi p{
+    font-size:25px;
+}
+
+.fotnum{
+
+    background-color:white; text-align:center;
+    padding-top:20px;
+    color:#0f4c81 !important; 
+}
+
+  #timehd{
+      
+      padding:10px;
+      padding-bottom:50px;
+      padding-top:50px;
+  }
+
+  #timehd p{
+    font-size:40px !important;
+  }

@@ -1,0 +1,40 @@
+body{
+    font-family: 'Nanum Myeongjo', serif;
+    scroll-behavior: smooth;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.nav-custom a{
+    color:white;
+}
+
+
+
+.navbd{
+    font-size: 50px;
+    padding:0.6rem;
+    margin-left:100px;
+    font-family: 'East Sea Dokdo', cursive;
+    color: #EECB27 !important;
+   
+}
+
+.nav-custom{
+    background: #0f4c81;
+    border-color: #0f4c81;
+}
+
+.nav-item{
+    margin-left:80px;
+
+}
+
+.act{
+
+    background-color:#2269a7;
+}
+
+
